@@ -1,0 +1,9 @@
+Greens Cucumber 110 900 150
+Greens Banana 110 1500 122
+Laptop ASUS 29990 7701 4000 17000
+Clothes DC 1500 S cotton
+Greens Ananas 400 1000 440
+Laptop XIAOMI 14990 7600 4000 6000
+Clothes Gucci 50000 L diamond
+Clothes Nike 4000 M leather
+Laptop MAC 90990 6400 1500 1000

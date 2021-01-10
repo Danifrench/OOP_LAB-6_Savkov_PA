@@ -1,0 +1,11 @@
+C:\Users\Mi\source\repos\OOP_LAB№6\OOP_LAB№6\obj\Debug\OOP_LAB№6.csprojAssemblyReference.cache
+C:\Users\Mi\source\repos\OOP_LAB№6\OOP_LAB№6\obj\Debug\OOP_LAB_6.Form1.resources
+C:\Users\Mi\source\repos\OOP_LAB№6\OOP_LAB№6\obj\Debug\OOP_LAB_6.Properties.Resources.resources
+C:\Users\Mi\source\repos\OOP_LAB№6\OOP_LAB№6\obj\Debug\OOP_LAB№6.csproj.GenerateResource.cache
+C:\Users\Mi\source\repos\OOP_LAB№6\OOP_LAB№6\obj\Debug\OOP_LAB№6.csproj.CoreCompileInputs.cache
+C:\Users\Mi\source\repos\OOP_LAB№6\OOP_LAB№6\bin\Debug\OOP_LAB№6.exe.config
+C:\Users\Mi\source\repos\OOP_LAB№6\OOP_LAB№6\bin\Debug\OOP_LAB№6.exe
+C:\Users\Mi\source\repos\OOP_LAB№6\OOP_LAB№6\bin\Debug\OOP_LAB№6.pdb
+C:\Users\Mi\source\repos\OOP_LAB№6\OOP_LAB№6\obj\Debug\OOP_LAB№6.exe
+C:\Users\Mi\source\repos\OOP_LAB№6\OOP_LAB№6\obj\Debug\OOP_LAB№6.pdb
+C:\Users\Mi\source\repos\OOP_LAB№6\OOP_LAB№6\obj\Debug\OOP_LAB_6.Form2.resources
